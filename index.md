@@ -1,10 +1,10 @@
 # Giatro's wiki
 
 ## Computer Theory
-* [Simple Problems](simple_problems)
+* [Simple Problems](simple_problems.md)
 
 ## Web Development
-* [HTML](html)
+* [HTML](html.md)
 * [CSS](css.md)
-* [JS](js)
+* [JS](js.md)
 
