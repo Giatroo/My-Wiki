@@ -1,0 +1,13 @@
+There are many ways to tell css a color.
+
+* There're the prebind colors, like `black`, `blue`, `green`...
+* There're the hexdecimal colors, like `#23a3bb`, `#69dac0`...
+* There're the rgb colors, like `rgb(255, 123, 42)`...
+* And there're the rgba colors, like `rgba(255, 123, 42, 0.5)`...
+
+The `a` paramether varies from $1$ to $0$.
+
+```
+/* color for text */
+color: black;
+```
