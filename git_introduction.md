@@ -78,7 +78,6 @@ be included in the real message.
 One more observation is that it's always good to use the imperative tense in the
 first line of our commit.
 
-
 If you want to check previous commits, you can run
 
 `git log`
