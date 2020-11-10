@@ -44,3 +44,27 @@ file to some input file. We would use it like:
 `patch file < file.diff`
 
 And now patch will apply the changes to `file`.
+
+
+## Vimdiff
+
+Here's a quick extra:
+Vim has a nice diff tool and we can integrate that with Git using the following
+commands:
+
+```
+git config --global core.edit nvim
+git config --global diff.tool vimdiff3
+git config --global difftool.vimdiff3.path nvim
+git config --global merge.tool vimdiff3
+git config --global mergetool.vimdiff3.path
+```
+
+(If you don't use nvim, you may change that commands a little)
+
+Now we can use
+`git difftool`
+and
+`git difftool --staged`
+
+and it will open neovim.
