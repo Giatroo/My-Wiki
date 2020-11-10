@@ -10,7 +10,7 @@
 * [Introduction](git_introduction.md)
 * [Advanced Tricks](git_advanced_tricks.md)
 * [Undoing Things](git_undoing_things.md)
-* [Branches][git_branch.md]
+* [Branches](git_branch.md)
 
 ## Web Development
 
