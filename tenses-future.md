@@ -90,3 +90,70 @@ before, after:
 * **When I visit Greece, I'll call you.**
 * **Before I visit Greece, I'll call you.**
 * **I'll call you as soon as I visit Greece.**
+
+#### Simple Future with "going to"
+
+As we've already seen, *going to* is used in a **informal** situation and about
+**planned** things. We may also use the present continuous to do so.
+
+Some uses are:
+
+* **arrangements**
+    * *We're going to meet at the mall*.
+* **intentions**
+    * *I'm going to exercise every day*.
+* **predictions**
+    * *It's going to rain tomorrow*.
+* **planned events**
+    * *We're flying to Lisbon in July*.
+    * *They're having a party on Saturday night*.
+
+**Important observation:** to use the present continuous, we need a *advert of
+time*!!!
+
+The basic structe is the same as with **will**:
+
+**subject + to be + going to + base verb**
+
+**subject + to be + not + going to + base verb**
+
+**to be + subject + going to + base verb?**
+
+And we usually use the contracted to be (*I'm/You're/...*)
+
+## Future Continuous (or Progressive)
+
+As any continuous tense, the future continuous is about a action happing along a
+period of time. Therefore, we use the future continuous to tell about something
+that will happen in the future and will take some time.
+
+* *I'll start at 9:00*
+* *I'll finish at 5:00*
+* **I will *be working* from 9 to 5 tomorrow**.
+
+### The main used
+
+* **continue for a period**
+    * *Our team will be attending a conference from March 5-8*
+* **continue during a moment**
+    * *At 2:30, I will be taking my English exam*.
+* **continue together**
+    * *On Tuesday, Jack will be giving a presentation and Steve will be meeting
+    a client.*
+* **polite questions**
+    * *Will you be checking in early*?
+
+And very often, we'll see sentenses with a **time marker** like *tomorrow*, *at
+3 PM*, ...
+
+#### Stative Verbs
+
+As in any continuous tense, we cannot use stative verbs.
+
+#### Sentense structure
+
+**subject + will be + (verb + ing)**
+
+**subject + will not (won't) be + (verb + ing)**
+
+**will + subject + (verb + ing)?**
